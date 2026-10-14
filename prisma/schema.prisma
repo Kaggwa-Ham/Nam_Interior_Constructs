@@ -1,0 +1,250 @@
+// Nam Interior Constructs — database schema
+// Docs: https://pris.ly/d/prisma-schema
+//
+// To change the database structure:
+//   1. Edit this file
+//   2. Run `npm run db:migrate:dev -- --name describe_your_change` (local)
+//   3. Deploy with `npm run db:migrate` (production)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────────────────────
+// Enums
+// ─────────────────────────────────────────────────────────────
+
+/// Where a lead sits in the sales pipeline.
+enum LeadStatus {
+  NEW
+  CONTACTED
+  QUALIFIED
+  QUOTED
+  WON
+  LOST
+}
+
+/// A lead is either a priced quote request or a general message.
+enum LeadType {
+  QUOTE
+  CONTACT
+}
+
+enum UserRole {
+  OWNER
+  ADMIN
+  VIEWER
+}
+
+enum ProjectCategory {
+  KITCHENS
+  WARDROBES
+  MEDIA_WALLS
+  OFFICE_FITOUT
+  CEILINGS
+  BATHROOMS
+  TILING
+  FURNITURE
+  PAINTING
+  RENOVATION
+}
+
+// ─────────────────────────────────────────────────────────────
+// Accounts
+// ─────────────────────────────────────────────────────────────
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  name         String
+  passwordHash String
+  role         UserRole  @default(ADMIN)
+  isActive     Boolean   @default(true)
+  lastLoginAt  DateTime?
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  notes     LeadNote[]
+  auditLogs AuditLog[]
+
+  @@index([email])
+}
+
+// ─────────────────────────────────────────────────────────────
+// Sales pipeline
+// ─────────────────────────────────────────────────────────────
+
+model Lead {
+  id String @id @default(cuid())
+
+  // Contact details
+  name     String
+  email    String
+  phone    String
+  location String?
+
+  // What they want
+  type        LeadType @default(QUOTE)
+  serviceId   String?
+  service     Service? @relation(fields: [serviceId], references: [id], onDelete: SetNull)
+  projectType String?
+  budgetRange String?
+  timeline    String?
+  message     String
+
+  // Pipeline
+  status     LeadStatus @default(NEW)
+  priority   Int        @default(0)
+  source     String     @default("website")
+  assignedTo String?
+
+  // Integrity / anti-spam forensics
+  ipAddress String?
+  userAgent String?
+  referrer  String?
+
+  notes         LeadNote[]
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  contactedAt   DateTime?
+  convertedAt   DateTime?
+
+  @@index([status, createdAt])
+  @@index([type, createdAt])
+  @@index([email])
+}
+
+/// Timestamped, append-only internal notes on a lead.
+model LeadNote {
+  id        String   @id @default(cuid())
+  body      String
+  leadId    String
+  lead      Lead     @relation(fields: [leadId], references: [id], onDelete: Cascade)
+  authorId  String?
+  author    User?    @relation(fields: [authorId], references: [id], onDelete: SetNull)
+  createdAt DateTime @default(now())
+
+  @@index([leadId, createdAt])
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  action    String
+  entity    String
+  entityId  String?
+  meta      Json?
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  createdAt DateTime @default(now())
+
+  @@index([entity, entityId])
+  @@index([createdAt])
+}
+
+// ─────────────────────────────────────────────────────────────
+// Portfolio
+// ─────────────────────────────────────────────────────────────
+
+model Project {
+  id          String          @id @default(cuid())
+  slug        String          @unique
+  title       String
+  category    ProjectCategory
+  location    String
+  year        Int
+  summary     String
+  description String?
+  coverImage  String
+
+  featured  Boolean @default(false)
+  published Boolean @default(true)
+  sortOrder Int     @default(0)
+
+  images       ProjectImage[]
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+
+  @@index([category, published])
+  @@index([featured, sortOrder])
+}
+
+model ProjectImage {
+  id        String  @id @default(cuid())
+  url       String
+  alt       String
+  /// Intrinsic pixel size of `url`, used for srcset and to reserve layout space
+  /// so images never cause cumulative layout shift.
+  width     Int?
+  height    Int?
+  /// Responsive variants: [{ width: Int, url: String }]. Written by the seed
+  /// script from the build-time image manifest.
+  sources   Json?
+  sortOrder Int     @default(0)
+  projectId String
+  project   Project @relation(fields: [projectId], references: [id], onDelete: Cascade)
+
+  @@index([projectId, sortOrder])
+}
+
+// ─────────────────────────────────────────────────────────────
+// Services & social proof
+// ─────────────────────────────────────────────────────────────
+
+model Service {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  title       String
+  tagline     String
+  description String
+  icon        String  @default("sparkle")
+  features    String[]
+  priceFrom   String?
+  coverImage  String?
+
+  published Boolean @default(true)
+  sortOrder Int     @default(0)
+
+  leads     Lead[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([published, sortOrder])
+}
+
+model Testimonial {
+  id        String   @id @default(cuid())
+  name      String
+  role      String
+  quote     String
+  rating    Int      @default(5)
+  published Boolean  @default(true)
+  sortOrder Int      @default(0)
+  createdAt DateTime @default(now())
+
+  @@index([published, sortOrder])
+}
+
+// ─────────────────────────────────────────────────────────────
+// Site configuration & marketing
+// ─────────────────────────────────────────────────────────────
+
+/// Flexible key/value store for editable site copy.
+/// Value is a JSON blob; read it via GET /api/settings.
+model SiteSetting {
+  key       String   @id
+  value     Json
+  updatedAt DateTime @updatedAt
+}
+
+model Subscriber {
+  id         String    @id @default(cuid())
+  email      String    @unique
+  confirmed  Boolean   @default(false)
+  createdAt  DateTime  @default(now())
+  unsubscribedAt DateTime?
+}
