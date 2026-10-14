@@ -1,0 +1,1409 @@
+{
+  "generatedAt": "2026-10-14T08:24:33.504Z",
+  "projects": [
+    {
+      "slug": "complete-home-renovation",
+      "title": "Complete Home Renovation",
+      "category": "RENOVATION",
+      "location": "Kampala, Uganda",
+      "year": 2024,
+      "summary": "A full turnkey renovation: stripped back to the shell and rebuilt with new joinery, ceilings, tiling and finishes throughout.",
+      "description": "This project took a tired family home back to bare walls and rebuilt it as a modern, light-filled residence. Our team handled demolition, structural alterations, gypsum ceilings with concealed lighting, custom joinery, floor and wall tiling, and the final decoration package — under a single contract and a single programme of works.",
+      "featured": true,
+      "cover": "/img/projects/complete-home-renovation/01-1600.webp",
+      "images": [
+        {
+          "seq": "01",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.49 AM.jpeg",
+          "alt": "Complete Home Renovation — view 1",
+          "width": 864,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 864,
+              "url": "/img/projects/complete-home-renovation/01-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/01-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/01-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/01-1600.webp"
+        },
+        {
+          "seq": "02",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.51 AM.jpeg",
+          "alt": "Complete Home Renovation — view 2",
+          "width": 499,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 499,
+              "url": "/img/projects/complete-home-renovation/02-1600.webp"
+            },
+            {
+              "width": 499,
+              "url": "/img/projects/complete-home-renovation/02-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/02-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/02-1600.webp"
+        },
+        {
+          "seq": "03",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.52 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 3",
+          "width": 636,
+          "height": 874,
+          "sources": [
+            {
+              "width": 636,
+              "url": "/img/projects/complete-home-renovation/03-1600.webp"
+            },
+            {
+              "width": 636,
+              "url": "/img/projects/complete-home-renovation/03-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/03-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/03-1600.webp"
+        },
+        {
+          "seq": "04",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.52 AM.jpeg",
+          "alt": "Complete Home Renovation — view 4",
+          "width": 499,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 499,
+              "url": "/img/projects/complete-home-renovation/04-1600.webp"
+            },
+            {
+              "width": 499,
+              "url": "/img/projects/complete-home-renovation/04-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/04-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/04-1600.webp"
+        },
+        {
+          "seq": "05",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.53 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 5",
+          "width": 800,
+          "height": 418,
+          "sources": [
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/05-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/05-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/05-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/05-1600.webp"
+        },
+        {
+          "seq": "06",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.53 AM.jpeg",
+          "alt": "Complete Home Renovation — view 6",
+          "width": 1039,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 1039,
+              "url": "/img/projects/complete-home-renovation/06-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/06-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/06-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/06-1600.webp"
+        },
+        {
+          "seq": "07",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.54 AM.jpeg",
+          "alt": "Complete Home Renovation — view 7",
+          "width": 1024,
+          "height": 576,
+          "sources": [
+            {
+              "width": 1024,
+              "url": "/img/projects/complete-home-renovation/07-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/07-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/07-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/07-1600.webp"
+        },
+        {
+          "seq": "08",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.55 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 8",
+          "width": 1080,
+          "height": 608,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/complete-home-renovation/08-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/08-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/08-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/08-1600.webp"
+        },
+        {
+          "seq": "09",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.55 AM.jpeg",
+          "alt": "Complete Home Renovation — view 9",
+          "width": 1080,
+          "height": 608,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/complete-home-renovation/09-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/09-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/09-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/09-1600.webp"
+        },
+        {
+          "seq": "10",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.56 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 10",
+          "width": 864,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 864,
+              "url": "/img/projects/complete-home-renovation/10-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/10-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/10-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/10-1600.webp"
+        },
+        {
+          "seq": "11",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.56 AM.jpeg",
+          "alt": "Complete Home Renovation — view 11",
+          "width": 1080,
+          "height": 608,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/complete-home-renovation/11-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/11-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/11-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/11-1600.webp"
+        },
+        {
+          "seq": "12",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.57 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 12",
+          "width": 820,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 820,
+              "url": "/img/projects/complete-home-renovation/12-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/12-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/12-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/12-1600.webp"
+        },
+        {
+          "seq": "13",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.57 AM (2).jpeg",
+          "alt": "Complete Home Renovation — view 13",
+          "width": 864,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 864,
+              "url": "/img/projects/complete-home-renovation/13-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/13-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/13-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/13-1600.webp"
+        },
+        {
+          "seq": "14",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.57 AM.jpeg",
+          "alt": "Complete Home Renovation — view 14",
+          "width": 878,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 878,
+              "url": "/img/projects/complete-home-renovation/14-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/14-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/14-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/14-1600.webp"
+        },
+        {
+          "seq": "15",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.58 AM.jpeg",
+          "alt": "Complete Home Renovation — view 15",
+          "width": 866,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 866,
+              "url": "/img/projects/complete-home-renovation/15-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/15-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/15-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/15-1600.webp"
+        },
+        {
+          "seq": "16",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.59 AM (1).jpeg",
+          "alt": "Complete Home Renovation — view 16",
+          "width": 720,
+          "height": 855,
+          "sources": [
+            {
+              "width": 720,
+              "url": "/img/projects/complete-home-renovation/16-1600.webp"
+            },
+            {
+              "width": 720,
+              "url": "/img/projects/complete-home-renovation/16-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/16-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/16-1600.webp"
+        },
+        {
+          "seq": "17",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.59 AM (2).jpeg",
+          "alt": "Complete Home Renovation — view 17",
+          "width": 825,
+          "height": 1024,
+          "sources": [
+            {
+              "width": 825,
+              "url": "/img/projects/complete-home-renovation/17-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/17-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/17-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/17-1600.webp"
+        },
+        {
+          "seq": "18",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.29.59 AM.jpeg",
+          "alt": "Complete Home Renovation — view 18",
+          "width": 810,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 810,
+              "url": "/img/projects/complete-home-renovation/18-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/complete-home-renovation/18-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/18-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/18-1600.webp"
+        },
+        {
+          "seq": "19",
+          "originalName": "WhatsApp Image 2026-03-09 at 11.30.00 AM.jpeg",
+          "alt": "Complete Home Renovation — view 19",
+          "width": 608,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 608,
+              "url": "/img/projects/complete-home-renovation/19-1600.webp"
+            },
+            {
+              "width": 608,
+              "url": "/img/projects/complete-home-renovation/19-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/19-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/19-1600.webp"
+        },
+        {
+          "seq": "20",
+          "originalName": "house.jpeg",
+          "alt": "Complete Home Renovation — view 20",
+          "width": 590,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 590,
+              "url": "/img/projects/complete-home-renovation/20-1600.webp"
+            },
+            {
+              "width": 590,
+              "url": "/img/projects/complete-home-renovation/20-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/complete-home-renovation/20-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/complete-home-renovation/20-1600.webp"
+        }
+      ]
+    },
+    {
+      "slug": "custom-joinery-package",
+      "title": "Custom Joinery & Built-in Package",
+      "category": "WARDROBES",
+      "location": "Kampala, Uganda",
+      "year": 2024,
+      "summary": "Made-to-measure wardrobes, media units and storage built on site to fit awkward angles and maximise every millimetre.",
+      "description": "Every carcass was cut and assembled in our workshop, then fitted on site for a seamless join. Soft-close hardware throughout, adjustable shelving, integrated LED lighting and finishes matched to the client’s paint schedule.",
+      "featured": true,
+      "cover": "/img/projects/custom-joinery-package/01-1600.webp",
+      "images": [
+        {
+          "seq": "01",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.11 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 1",
+          "width": 499,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 499,
+              "url": "/img/projects/custom-joinery-package/01-1600.webp"
+            },
+            {
+              "width": 499,
+              "url": "/img/projects/custom-joinery-package/01-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/01-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/01-1600.webp"
+        },
+        {
+          "seq": "02",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.11 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 2",
+          "width": 499,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 499,
+              "url": "/img/projects/custom-joinery-package/02-1600.webp"
+            },
+            {
+              "width": 499,
+              "url": "/img/projects/custom-joinery-package/02-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/02-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/02-1600.webp"
+        },
+        {
+          "seq": "03",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.12 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 3",
+          "width": 640,
+          "height": 794,
+          "sources": [
+            {
+              "width": 640,
+              "url": "/img/projects/custom-joinery-package/03-1600.webp"
+            },
+            {
+              "width": 640,
+              "url": "/img/projects/custom-joinery-package/03-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/03-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/03-1600.webp"
+        },
+        {
+          "seq": "04",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.13 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 4",
+          "width": 780,
+          "height": 1040,
+          "sources": [
+            {
+              "width": 780,
+              "url": "/img/projects/custom-joinery-package/04-1600.webp"
+            },
+            {
+              "width": 780,
+              "url": "/img/projects/custom-joinery-package/04-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/04-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/04-1600.webp"
+        },
+        {
+          "seq": "05",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.13 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 5",
+          "width": 960,
+          "height": 540,
+          "sources": [
+            {
+              "width": 960,
+              "url": "/img/projects/custom-joinery-package/05-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/05-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/05-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/05-1600.webp"
+        },
+        {
+          "seq": "06",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.14 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 6",
+          "width": 998,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 998,
+              "url": "/img/projects/custom-joinery-package/06-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/06-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/06-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/06-1600.webp"
+        },
+        {
+          "seq": "07",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.14 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 7",
+          "width": 934,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 934,
+              "url": "/img/projects/custom-joinery-package/07-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/07-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/07-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/07-1600.webp"
+        },
+        {
+          "seq": "08",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.14 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 8",
+          "width": 815,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 815,
+              "url": "/img/projects/custom-joinery-package/08-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/08-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/08-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/08-1600.webp"
+        },
+        {
+          "seq": "09",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.15 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 9",
+          "width": 636,
+          "height": 874,
+          "sources": [
+            {
+              "width": 636,
+              "url": "/img/projects/custom-joinery-package/09-1600.webp"
+            },
+            {
+              "width": 636,
+              "url": "/img/projects/custom-joinery-package/09-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/09-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/09-1600.webp"
+        },
+        {
+          "seq": "10",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.15 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 10",
+          "width": 642,
+          "height": 1033,
+          "sources": [
+            {
+              "width": 642,
+              "url": "/img/projects/custom-joinery-package/10-1600.webp"
+            },
+            {
+              "width": 642,
+              "url": "/img/projects/custom-joinery-package/10-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/10-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/10-1600.webp"
+        },
+        {
+          "seq": "11",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.16 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 11",
+          "width": 988,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 988,
+              "url": "/img/projects/custom-joinery-package/11-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/11-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/11-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/11-1600.webp"
+        },
+        {
+          "seq": "12",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.16 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 12",
+          "width": 895,
+          "height": 1080,
+          "sources": [
+            {
+              "width": 895,
+              "url": "/img/projects/custom-joinery-package/12-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/12-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/12-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/12-1600.webp"
+        },
+        {
+          "seq": "13",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.17 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 13",
+          "width": 960,
+          "height": 540,
+          "sources": [
+            {
+              "width": 960,
+              "url": "/img/projects/custom-joinery-package/13-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/13-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/13-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/13-1600.webp"
+        },
+        {
+          "seq": "14",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.17 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 14",
+          "width": 960,
+          "height": 540,
+          "sources": [
+            {
+              "width": 960,
+              "url": "/img/projects/custom-joinery-package/14-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/14-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/14-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/14-1600.webp"
+        },
+        {
+          "seq": "15",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.17 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 15",
+          "width": 1080,
+          "height": 963,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/custom-joinery-package/15-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/15-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/15-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/15-1600.webp"
+        },
+        {
+          "seq": "16",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.18 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 16",
+          "width": 1080,
+          "height": 717,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/custom-joinery-package/16-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/16-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/16-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/16-1600.webp"
+        },
+        {
+          "seq": "17",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.18 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 17",
+          "width": 1080,
+          "height": 730,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/custom-joinery-package/17-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/17-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/17-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/17-1600.webp"
+        },
+        {
+          "seq": "18",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.18 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 18",
+          "width": 960,
+          "height": 540,
+          "sources": [
+            {
+              "width": 960,
+              "url": "/img/projects/custom-joinery-package/18-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/18-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/18-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/18-1600.webp"
+        },
+        {
+          "seq": "19",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.19 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 19",
+          "width": 567,
+          "height": 1008,
+          "sources": [
+            {
+              "width": 567,
+              "url": "/img/projects/custom-joinery-package/19-1600.webp"
+            },
+            {
+              "width": 567,
+              "url": "/img/projects/custom-joinery-package/19-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/19-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/19-1600.webp"
+        },
+        {
+          "seq": "20",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.19 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 20",
+          "width": 1080,
+          "height": 756,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/custom-joinery-package/20-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/20-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/20-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/20-1600.webp"
+        },
+        {
+          "seq": "21",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.20 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 21",
+          "width": 1078,
+          "height": 1280,
+          "sources": [
+            {
+              "width": 1078,
+              "url": "/img/projects/custom-joinery-package/21-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/21-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/21-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/21-1600.webp"
+        },
+        {
+          "seq": "22",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.20 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 22",
+          "width": 567,
+          "height": 1008,
+          "sources": [
+            {
+              "width": 567,
+              "url": "/img/projects/custom-joinery-package/22-1600.webp"
+            },
+            {
+              "width": 567,
+              "url": "/img/projects/custom-joinery-package/22-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/22-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/22-1600.webp"
+        },
+        {
+          "seq": "23",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.21 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 23",
+          "width": 858,
+          "height": 1024,
+          "sources": [
+            {
+              "width": 858,
+              "url": "/img/projects/custom-joinery-package/23-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/23-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/23-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/23-1600.webp"
+        },
+        {
+          "seq": "24",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.21 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 24",
+          "width": 1168,
+          "height": 1280,
+          "sources": [
+            {
+              "width": 1168,
+              "url": "/img/projects/custom-joinery-package/24-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/24-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/24-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/24-1600.webp"
+        },
+        {
+          "seq": "25",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.21 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 25",
+          "width": 836,
+          "height": 1024,
+          "sources": [
+            {
+              "width": 836,
+              "url": "/img/projects/custom-joinery-package/25-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/25-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/25-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/25-1600.webp"
+        },
+        {
+          "seq": "26",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.22 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 26",
+          "width": 1280,
+          "height": 720,
+          "sources": [
+            {
+              "width": 1280,
+              "url": "/img/projects/custom-joinery-package/26-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/26-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/26-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/26-1600.webp"
+        },
+        {
+          "seq": "27",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.22 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 27",
+          "width": 1280,
+          "height": 720,
+          "sources": [
+            {
+              "width": 1280,
+              "url": "/img/projects/custom-joinery-package/27-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/27-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/27-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/27-1600.webp"
+        },
+        {
+          "seq": "28",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.22 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 28",
+          "width": 1280,
+          "height": 720,
+          "sources": [
+            {
+              "width": 1280,
+              "url": "/img/projects/custom-joinery-package/28-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/28-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/28-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/28-1600.webp"
+        },
+        {
+          "seq": "29",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.23 AM (1).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 29",
+          "width": 720,
+          "height": 900,
+          "sources": [
+            {
+              "width": 720,
+              "url": "/img/projects/custom-joinery-package/29-1600.webp"
+            },
+            {
+              "width": 720,
+              "url": "/img/projects/custom-joinery-package/29-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/29-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/29-1600.webp"
+        },
+        {
+          "seq": "30",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.23 AM (2).jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 30",
+          "width": 1080,
+          "height": 1152,
+          "sources": [
+            {
+              "width": 1080,
+              "url": "/img/projects/custom-joinery-package/30-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/30-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/30-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/30-1600.webp"
+        },
+        {
+          "seq": "31",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.23 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 31",
+          "width": 996,
+          "height": 1280,
+          "sources": [
+            {
+              "width": 996,
+              "url": "/img/projects/custom-joinery-package/31-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/31-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/31-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/31-1600.webp"
+        },
+        {
+          "seq": "32",
+          "originalName": "WhatsApp Image 2026-03-09 at 8.54.24 AM.jpeg",
+          "alt": "Custom Joinery & Built-in Package — view 32",
+          "width": 1024,
+          "height": 1280,
+          "sources": [
+            {
+              "width": 1024,
+              "url": "/img/projects/custom-joinery-package/32-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/custom-joinery-package/32-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/custom-joinery-package/32-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/custom-joinery-package/32-1600.webp"
+        }
+      ]
+    },
+    {
+      "slug": "fitted-furniture-and-finishes",
+      "title": "Fitted Furniture & Interior Finishes",
+      "category": "FURNITURE",
+      "location": "Kampala, Uganda",
+      "year": 2025,
+      "summary": "Bespoke furniture pieces and finishing works delivered across several rooms in a single occupation.",
+      "description": "A package of fitted furniture, feature walls, joinery and decoration. We worked around the client’s existing schedule, completing room by room so the family never had to move out.",
+      "featured": true,
+      "cover": "/img/projects/fitted-furniture-and-finishes/01-1600.webp",
+      "images": [
+        {
+          "seq": "01",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.12 PM (1).jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 1",
+          "width": 800,
+          "height": 418,
+          "sources": [
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/01-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/01-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/01-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/01-1600.webp"
+        },
+        {
+          "seq": "02",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.12 PM.jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 2",
+          "width": 768,
+          "height": 1024,
+          "sources": [
+            {
+              "width": 768,
+              "url": "/img/projects/fitted-furniture-and-finishes/02-1600.webp"
+            },
+            {
+              "width": 768,
+              "url": "/img/projects/fitted-furniture-and-finishes/02-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/02-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/02-1600.webp"
+        },
+        {
+          "seq": "03",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.13 PM (1).jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 3",
+          "width": 800,
+          "height": 418,
+          "sources": [
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/03-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/03-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/03-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/03-1600.webp"
+        },
+        {
+          "seq": "04",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.13 PM.jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 4",
+          "width": 1040,
+          "height": 468,
+          "sources": [
+            {
+              "width": 1040,
+              "url": "/img/projects/fitted-furniture-and-finishes/04-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/04-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/04-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/04-1600.webp"
+        },
+        {
+          "seq": "05",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.14 PM (1).jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 5",
+          "width": 1024,
+          "height": 768,
+          "sources": [
+            {
+              "width": 1024,
+              "url": "/img/projects/fitted-furniture-and-finishes/05-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/05-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/05-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/05-1600.webp"
+        },
+        {
+          "seq": "06",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.14 PM.jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 6",
+          "width": 540,
+          "height": 960,
+          "sources": [
+            {
+              "width": 540,
+              "url": "/img/projects/fitted-furniture-and-finishes/06-1600.webp"
+            },
+            {
+              "width": 540,
+              "url": "/img/projects/fitted-furniture-and-finishes/06-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/06-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/06-1600.webp"
+        },
+        {
+          "seq": "07",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.15 PM (1).jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 7",
+          "width": 672,
+          "height": 519,
+          "sources": [
+            {
+              "width": 672,
+              "url": "/img/projects/fitted-furniture-and-finishes/07-1600.webp"
+            },
+            {
+              "width": 672,
+              "url": "/img/projects/fitted-furniture-and-finishes/07-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/07-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/07-1600.webp"
+        },
+        {
+          "seq": "08",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.15 PM.jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 8",
+          "width": 468,
+          "height": 1040,
+          "sources": [
+            {
+              "width": 468,
+              "url": "/img/projects/fitted-furniture-and-finishes/08-1600.webp"
+            },
+            {
+              "width": 468,
+              "url": "/img/projects/fitted-furniture-and-finishes/08-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/08-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/08-1600.webp"
+        },
+        {
+          "seq": "09",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.16 PM (1).jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 9",
+          "width": 567,
+          "height": 1008,
+          "sources": [
+            {
+              "width": 567,
+              "url": "/img/projects/fitted-furniture-and-finishes/09-1600.webp"
+            },
+            {
+              "width": 567,
+              "url": "/img/projects/fitted-furniture-and-finishes/09-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/09-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/09-1600.webp"
+        },
+        {
+          "seq": "10",
+          "originalName": "WhatsApp Image 2026-03-09 at 12.00.16 PM.jpeg",
+          "alt": "Fitted Furniture & Interior Finishes — view 10",
+          "width": 800,
+          "height": 418,
+          "sources": [
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/10-1600.webp"
+            },
+            {
+              "width": 800,
+              "url": "/img/projects/fitted-furniture-and-finishes/10-800.webp"
+            },
+            {
+              "width": 400,
+              "url": "/img/projects/fitted-furniture-and-finishes/10-400.webp"
+            }
+          ],
+          "fallback": "/img/projects/fitted-furniture-and-finishes/10-1600.webp"
+        }
+      ]
+    }
+  ],
+  "brand": []
+}
