@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Environment / secrets — NEVER commit these
+.env
+.env.local
+.env.production
+
+# Build & runtime artefacts
+dist/
+build/
+coverage/
+*.log
+npm-debug.log*
+
+# Uploaded media (kept out of git; object storage in production)
+uploads/*
+
+# Prisma generated client
+server/generated/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+
+# Temporary working files
+_contact*.html
